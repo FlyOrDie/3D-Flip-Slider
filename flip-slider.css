@@ -76,13 +76,13 @@ body{
 	z-index: 1;
 }
 
-.nav{
+.slider-nav{
 	width: 500px;
 	margin: 0 auto;
 	text-align: center;
 }
 
-.nav button{
+.slider-nav button{
 	cursor: pointer;
 	width: 80px;
 }
